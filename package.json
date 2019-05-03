@@ -1,0 +1,14 @@
+{
+  "name": "ewig_life",
+  "version": "1.0.0",
+  "description": "Making EwigLife \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[l\u001b[C\u001b[C\u001b[C\u001b[Capplication\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C",
+  "main": "server.js\u001b[C",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Muizz Bilal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
